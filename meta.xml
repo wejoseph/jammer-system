@@ -1,0 +1,8 @@
+<meta>
+
+
+ -- made by joseph - legend:creation.
+  <script src="server.lua" type="server" cache="false"/>
+	<script src="client.lua" type="client" cache="false" />>
+
+</meta>
